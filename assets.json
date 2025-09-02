@@ -1,0 +1,7 @@
+{
+  "register": {
+    "reeni_css": "welcome/assets/css/style.css",
+    "reeni_js":  "welcome/assets/js/main.js",
+    "hero_img":  "welcome/assets/images/hero.jpg"
+  }
+}
