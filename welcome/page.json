@@ -1,0 +1,6 @@
+{
+  "name": "Welcome",
+  "path": "welcome",
+  "groups": [],
+  "assets": ["reeni_css","reeni_js","hero_img"]
+}
