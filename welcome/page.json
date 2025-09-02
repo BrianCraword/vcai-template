@@ -2,5 +2,5 @@
   "name": "Welcome",
   "path": "welcome",
   "groups": [],
-  "assets": ["reeni_css","reeni_js","hero_img"]
+  "assets": ["bootstrap_css", "theme_css", "bootstrap_js", "theme_js", "hero_img"]
 }
